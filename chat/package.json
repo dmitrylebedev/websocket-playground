@@ -1,0 +1,24 @@
+{
+  "name": "websocket-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrylebedev/websocket-playground.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dmitrylebedev/websocket-playground/issues"
+  },
+  "homepage": "https://github.com/dmitrylebedev/websocket-playground#readme",
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "ws": "^8.12.0"
+  }
+}
